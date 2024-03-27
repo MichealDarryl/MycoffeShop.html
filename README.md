@@ -139,7 +139,7 @@
             <td>₱119.00</td>
             <td><img src="Iced cappucino.png" alt="Iced Cappucino"></td>
         </tr>
-      
+     <tr> 
         <th colspan="4">Tea</th>
     </tr>
     <tr>
