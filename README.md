@@ -33,7 +33,7 @@
     <h1>Coffee Avenue</h1> 
     <h1>Menu</h1>
     <table>
-        <tr>
+       <tr> <tr> <tr>
             <th colspan="4">Espresso Based</th>
         </tr>
         <tr>
@@ -41,7 +41,7 @@
             <th>Description</th>
             <th>Price</th>
             <th>Image</th>
-        </tr>
+       </tr>
         <tr>
             <td>Espresso</td>
             <td>Single shot of intense, rich espresso</td>
