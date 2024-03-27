@@ -29,7 +29,8 @@
             max-height: 100px;
         }
     </style>
-    
+</head>
+<body>
     <h1>Coffee Avenue</h1> 
     <h1>Menu</h1>
     <table>
@@ -205,4 +206,5 @@
         <td><img src="Caramel.jpg" alt="Caramel"></td>
     </tr>
       </table>
+</body>
 </html>
