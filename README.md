@@ -1,5 +1,5 @@
 # MycoffeShop.html
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -66,13 +66,13 @@
             <td>Bold espresso with a hint of creamy sweetness.</td>
             <td>₱89.99</td>
             <td><img src="Machiato.png" alt="Macchiato">
-        </tr>
+        
         <tr>
             <td>Americano</td>
             <td>Bold and straightforward, espresso softened with hot water.</td>
             <td>₱89.99</td>
             <td><img src="Americano.avif " alt="Americano">         
-    </tr>
+  
         <tr>
            
             <th colspan="4">Milk Teas</th>
