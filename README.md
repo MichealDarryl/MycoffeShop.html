@@ -46,13 +46,13 @@
             <td>Single shot of intense, rich espresso</td>
             <td>₱89.99</td>
             <td><img src="Espresso.webp" alt="Espresso"></td>
-       
+       </tr>
         <tr>
             <td>Café Latte</td>
             <td>Balanced and frothy, espresso crowned with airy foam.</td>
             <td>₱89.99</td>
             <td><img src="Cappucino.png" alt="Café Latte"></td>
-   
+       </tr>
         <tr>
             <td>Flat White</td>
             <td>A velvety-smooth delight, marrying rich espresso with silky microfoam milk in perfect harmony, offering a refined coffee experience with a creamy finish.</td>
