@@ -32,7 +32,7 @@
     <h1>Coffee Avenue</h1> 
     <h1>Menu</h1>
     <table>
-    <tr><
+    <tr>
         <th colspan="4">Espresso Based</th>
        </tr>
        <tr>
