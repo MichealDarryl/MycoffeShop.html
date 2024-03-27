@@ -203,5 +203,6 @@
         <td>Elevate your beverage with a swirl of caramel drizzle, adding a delightful sweetness and a hint of indulgence</td>
         <td>₱15.00</td> 
         <td><img src="Caramel.jpg" alt="Caramel"></td>
-    </tr>
+  </tr>
+  </head>
 </html>
