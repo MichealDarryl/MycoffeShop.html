@@ -34,7 +34,7 @@
     <h1>Menu</h1>
     <table>
        <tr> 
-          <tr><th colspan="4">Espresso Based</th></tr>
+        <th colspan="4">Espresso Based</th>
         </tr>
         <tr>
             <th>Item</th>
