@@ -1,25 +1,26 @@
 # MycoffeShop.html
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Coffee Menu</title>
+     <center>
     <style>
-        body {
-            background-color: #baf8a7;
-            text-align: center;
-        }
-        table {
+      body{
+          background-color: #baf8a7;
+      }
+      table {
             border-collapse: collapse;
             width: 80%;
             background-color: rgb(98, 201, 96);
-            margin: 20px auto;
         }
-        th, td {
+        th, td,{
             border: 1px solid #f3f1f1;
             text-align: left;
             padding: 8px;
         }
+            
         th {
             background-color: #f8f1f1;
         }
@@ -64,15 +65,16 @@
             <td>Macchiato</td>
             <td>Bold espresso with a hint of creamy sweetness.</td>
             <td>₱89.99</td>
-            <td><img src="Machiato.png" alt="Macchiato"></td>
+            <td><img src="Machiato.png" alt="Macchiato">
         </tr>
         <tr>
             <td>Americano</td>
             <td>Bold and straightforward, espresso softened with hot water.</td>
             <td>₱89.99</td>
-            <td><img src="Americano.avif" alt="Americano"></td>
-        </tr>
+            <td><img src="Americano.avif " alt="Americano">         
+    </tr>
         <tr>
+           
             <th colspan="4">Milk Teas</th>
         </tr>
         <tr>
@@ -105,7 +107,7 @@
             <td>₱49.99</td>
             <td><img src="Matcha.avif" alt="Matcha Latte Milk Tea"></td>
         </tr>
-        <tr>
+           
             <th colspan="4">Iced Coffee</th>
         </tr>
         <tr>
@@ -138,7 +140,7 @@
             <td>₱119.00</td>
             <td><img src="Iced cappucino.png" alt="Iced Cappucino"></td>
         </tr>
-        <tr>
+      
         <th colspan="4">Tea</th>
     </tr>
     <tr>
@@ -202,7 +204,9 @@
         <td>Elevate your beverage with a swirl of caramel drizzle, adding a delightful sweetness and a hint of indulgence</td>
         <td>₱15.00</td> 
         <td><img src="Caramel.jpg" alt="Caramel"></td>
-  </tr>
-  </head>
-
+    </tr>
+      </table>
+</body>
+</html>
+          
 
