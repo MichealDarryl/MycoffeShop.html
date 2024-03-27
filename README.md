@@ -5,17 +5,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Coffee Menu</title>
+     <center>
     <style>
       body{
-          background-color: #a7f8a7;
+          background-color: #baf8a7;
       }
       table {
             border-collapse: collapse;
             width: 80%;
             background-color: rgb(98, 201, 96);
-            margin: 0 auto;
         }
-        th, td {
+        th, td,{
             border: 1px solid #f3f1f1;
             text-align: left;
             padding: 8px;
@@ -31,8 +31,8 @@
     </style>
 </head>
 <body>
-    <h1 style="text-align: center;">Coffee Avenue</h1> 
-    <h1 style="text-align: center;">Menu</h1>
+    <h1>Coffee Avenue</h1> 
+    <h1>Menu</h1>
     <table>
         <tr>
             <th colspan="4">Espresso Based</th>
@@ -65,15 +65,16 @@
             <td>Macchiato</td>
             <td>Bold espresso with a hint of creamy sweetness.</td>
             <td>₱89.99</td>
-            <td><img src="Machiato.png" alt="Macchiato"></td>
+            <td><img src="Machiato.png" alt="Macchiato">
         </tr>
         <tr>
             <td>Americano</td>
             <td>Bold and straightforward, espresso softened with hot water.</td>
             <td>₱89.99</td>
-            <td><img src="Americano.avif" alt="Americano"></td>
-        </tr>
+            <td><img src="Americano.avif " alt="Americano">         
+    </tr>
         <tr>
+           
             <th colspan="4">Milk Teas</th>
         </tr>
         <tr>
@@ -106,7 +107,7 @@
             <td>₱49.99</td>
             <td><img src="Matcha.avif" alt="Matcha Latte Milk Tea"></td>
         </tr>
-        <tr>
+           
             <th colspan="4">Iced Coffee</th>
         </tr>
         <tr>
@@ -139,23 +140,23 @@
             <td>₱119.00</td>
             <td><img src="Iced cappucino.png" alt="Iced Cappucino"></td>
         </tr>
-        <tr>
-            <th colspan="4">Tea</th>
-        </tr>
-        <tr>
-            <td>Green Tea</td>
-            <td>Steamed green tea leaves</td>
-            <td>₱69.00</td>
-            <td><img src="Green.jpg" alt="Green Tea"></td>
-        </tr>
-        <tr>
-            <td>Black Tea</td>
-            <td>Rich black tea leaves</td>
-            <td>₱69.00</td>
-            <td><img src="Black.jpg" alt="Black Tea"></td>
-        </tr>
-        <tr>
-            <td>Earl Grey</td>
+      
+        <th colspan="4">Tea</th>
+    </tr>
+    <tr>
+        <td>Green Tea</td>
+        <td>Steamed green tea leaves</td>
+        <td>₱69.00</td>
+        <td><img src="Green.jpg" alt="Green Tea"></td>
+    </tr>
+    <tr>
+        <td>Black Tea</td>
+        <td>Rich black tea leaves</td>
+        <td>₱69.00</td>
+        <td><img src="Black.jpg" alt="Black Tea"></td>
+    </tr>
+    <tr>
+        <td>Earl Grey</td>
         <td>Black tea flavored with bergamot oil</td>
         <td>₱69.00</td>
         <td><img src="Earl.avif" alt="Earl Grey"></td>
@@ -180,6 +181,14 @@
         <td>₱15.00</td> 
         <td><img src="syrup.jpg" alt="Syrup"></td>
     </tr>
+    <tr>
+        <td>Whipped Cream</td>
+        <td> Indulge your taste buds with a decadent topping of fluffy whipped cream to elevate your coffee experience.</td>
+        <td>₱15.00</td> 
+        <td><img src="Whipped.jpg" alt="Whipped Cream"></td>
+    </tr>
+    <tr>
+        <td>Extra Espresso Shot</td>
         <td>Need an extra boost? Amp up the caffeine with an additional shot of espresso to fuel your day.</td>
         <td>₱10.00</td> 
         <td><img src="Extra.jpg" alt="Extra"></td>
@@ -197,5 +206,5 @@
         <td><img src="Caramel.jpg" alt="Caramel"></td>
     </tr>
       </table>
-
+</body>
 </html>
