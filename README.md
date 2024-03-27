@@ -1,4 +1,5 @@
 # MycoffeShop.html
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -28,7 +29,8 @@
             max-height: 100px;
         }
     </style>
-
+</head>
+<body>
     <h1>Coffee Avenue</h1> 
     <h1>Menu</h1>
     <table>
@@ -46,13 +48,13 @@
             <td>Single shot of intense, rich espresso</td>
             <td>₱89.99</td>
             <td><img src="Espresso.webp" alt="Espresso"></td>
-       </tr>
+        </tr>
         <tr>
             <td>Café Latte</td>
             <td>Balanced and frothy, espresso crowned with airy foam.</td>
             <td>₱89.99</td>
             <td><img src="Cappucino.png" alt="Café Latte"></td>
-       </tr>
+        </tr>
         <tr>
             <td>Flat White</td>
             <td>A velvety-smooth delight, marrying rich espresso with silky microfoam milk in perfect harmony, offering a refined coffee experience with a creamy finish.</td>
@@ -63,15 +65,15 @@
             <td>Macchiato</td>
             <td>Bold espresso with a hint of creamy sweetness.</td>
             <td>₱89.99</td>
-            <td><img src="Machiato.png" alt="Macchiato"><td>
-        <\tr>
+            <td><img src="Machiato.png" alt="Macchiato">
+        </tr>
         <tr>
             <td>Americano</td>
             <td>Bold and straightforward, espresso softened with hot water.</td>
             <td>₱89.99</td>
-            <td><img src="Americano.avif " alt="Americano"><td>
-        <\tr> 
-         <tr>
+            <td><img src="Americano.avif " alt="Americano">         
+    </tr>
+        <tr>
            
             <th colspan="4">Milk Teas</th>
         </tr>
@@ -203,4 +205,6 @@
         <td>₱15.00</td> 
         <td><img src="Caramel.jpg" alt="Caramel"></td>
     </tr>
- 
+      </table>
+</body>
+</html>
