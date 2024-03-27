@@ -1,5 +1,4 @@
 # MycoffeShop.html
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -57,7 +56,8 @@
         </tr>
         <tr>
             <td>Flat White</td>
-            <td>A velvety-smooth delight, marrying rich espresso with silky microfoam milk in perfect harmony, offering a refined coffee experience with a creamy finish.</td>
+            <td>A velvety-smooth delight, marrying rich espresso with silky microfoam milk in perfect harmony, offering a refined coffee 
+            experience with a creamy finish.</td>
             <td>₱99.00</td>
             <td><img src="Flat white.jpg" alt="Flat White"></td>
         </tr>
@@ -72,7 +72,7 @@
             <td>Bold and straightforward, espresso softened with hot water.</td>
             <td>₱89.99</td>
             <td><img src="Americano.avif " alt="Americano"></td>         
-    </tr>
+       </tr>
         <tr>
            
             <th colspan="4">Milk Teas</th>
@@ -205,6 +205,4 @@
         <td>₱15.00</td> 
         <td><img src="Caramel.jpg" alt="Caramel"></td>
     </tr>
-      </table>
-</body>
-</html>
+  
