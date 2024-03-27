@@ -1,25 +1,26 @@
 # MycoffeShop.html
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Coffee Menu</title>
-     <center>
     <style>
-      body{
-          background-color: #baf8a7;
-      }
-      table {
+        body {
+            background-color: #baf8a7;
+            text-align: center;
+        }
+        table {
             border-collapse: collapse;
             width: 80%;
             background-color: rgb(98, 201, 96);
+            margin: 20px auto;
         }
-        th, td,{
+        th, td {
             border: 1px solid #f3f1f1;
             text-align: left;
             padding: 8px;
         }
-            
         th {
             background-color: #f8f1f1;
         }
@@ -33,15 +34,15 @@
     <h1>Coffee Avenue</h1> 
     <h1>Menu</h1>
     <table>
-       <tr> 
-        <th colspan="4">Espresso Based</th>
+        <tr>
+            <th colspan="4">Espresso Based</th>
         </tr>
         <tr>
             <th>Item</th>
             <th>Description</th>
             <th>Price</th>
             <th>Image</th>
-       </tr>
+        </tr>
         <tr>
             <td>Espresso</td>
             <td>Single shot of intense, rich espresso</td>
@@ -70,17 +71,16 @@
             <td>Americano</td>
             <td>Bold and straightforward, espresso softened with hot water.</td>
             <td>₱89.99</td>
-            <td><img src="Americano.avif " alt="Americano"></td>     
-       </tr>
+            <td><img src="Americano.avif" alt="Americano"></td>
+        </tr>
         <tr>
-           
             <th colspan="4">Milk Teas</th>
         </tr>
         <tr>
             <td>Classic Milk Tea</td>
             <td>Black tea with milk and sweetener</td>
             <td>₱49.99</td>
-            <td><img src="Classsic Milk tea.jpg" alt="Classic Milk Tea"></td>
+            <td><img src="Classic Milk tea.jpg" alt="Classic Milk Tea"></td>
         </tr>
         <tr>
             <td>Thai Milk Tea</td>
@@ -106,7 +106,7 @@
             <td>₱49.99</td>
             <td><img src="Matcha.avif" alt="Matcha Latte Milk Tea"></td>
         </tr>
-           
+        <tr>
             <th colspan="4">Iced Coffee</th>
         </tr>
         <tr>
@@ -139,7 +139,7 @@
             <td>₱119.00</td>
             <td><img src="Iced cappucino.png" alt="Iced Cappucino"></td>
         </tr>
-     <tr> 
+        <tr>
         <th colspan="4">Tea</th>
     </tr>
     <tr>
