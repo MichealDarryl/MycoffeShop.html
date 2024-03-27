@@ -204,6 +204,4 @@
         <td>₱15.00</td> 
         <td><img src="Caramel.jpg" alt="Caramel"></td>
     </tr>
-      </table>
-</body>
-</html>
+ 
