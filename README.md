@@ -28,12 +28,14 @@
             max-width: 100px;
             max-height: 100px;
         }
-    </style>
-    
+</style>
+</head>
+ </body>
+   
     <h1>Coffee Avenue</h1> 
     <h1>Menu</h1>
     <table>
-        <tr>
+        <tr> <tr>
             <th colspan="4">Espresso Based</th>
         </tr>
         <tr>
