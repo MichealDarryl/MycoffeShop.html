@@ -80,7 +80,7 @@
             <td>Classic Milk Tea</td>
             <td>Black tea with milk and sweetener</td>
             <td>₱49.99</td>
-            <td><img src="Classic Milk tea.jpg" alt="Classic Milk Tea"></td>
+            <td><img src="Classsic Milk tea.jpg" alt="Classic Milk Tea"></td>
         </tr>
         <tr>
             <td>Thai Milk Tea</td>
