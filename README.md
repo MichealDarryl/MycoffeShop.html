@@ -28,7 +28,7 @@
             max-height: 100px;
         }
     </style>
-
+</head>
 <body>
     <h1>Coffee Avenue</h1> 
     <h1>Menu</h1>
